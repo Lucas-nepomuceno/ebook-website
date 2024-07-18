@@ -42,4 +42,11 @@
     .hero .text-container {
         text-align: center;
     }
+
+    .navbar {
+        opacity: 0.9;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        background-color: var(--bs-dark);
+    }
+
 }
